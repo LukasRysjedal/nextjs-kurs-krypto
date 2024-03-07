@@ -7,4 +7,14 @@ export const currencies: CryptoCurrency[] = [
     name: "Dogecoin",
     icon: <Icon component="img" src="/icons/doge.svg" alt="Dogecoin" />,
   },
+  {
+    symbol: "BTC",
+    name: "Bitcoin",
+    icon: <Icon component="img" src="/icons/bit.svg" alt="Dogecoin" />,
+  },
+  {
+  symbol: "SOL",
+  name: "Solana",
+  icon: <Icon component="img" src="/icons/doge.svg" alt="Dogecoin" />,
+  },
 ];
